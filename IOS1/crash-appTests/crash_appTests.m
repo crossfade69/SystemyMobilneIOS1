@@ -1,10 +1,3 @@
-//
-//  crash_appTests.m
-//  crash-appTests
-//
-//  Created by Szymon N on 19/11/2022.
-//
-
 #import <XCTest/XCTest.h>
 
 @interface crash_appTests : XCTestCase
