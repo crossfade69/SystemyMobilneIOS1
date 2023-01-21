@@ -1,10 +1,3 @@
-//
-//  SecondViewController.m
-//  crash-app
-//
-//  Created by Szymon N on 19/11/2022.
-//
-
 #import "SecondViewController.h"
 
 @interface SecondViewController ()
