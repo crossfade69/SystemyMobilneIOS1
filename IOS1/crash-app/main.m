@@ -1,10 +1,3 @@
-//
-//  main.m
-//  crash-app
-//
-//  Created by Szymon N on 19/11/2022.
-//
-
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
