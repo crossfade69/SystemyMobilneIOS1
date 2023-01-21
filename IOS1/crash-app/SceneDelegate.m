@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.m
-//  crash-app
-//
-//  Created by Szymon N on 19/11/2022.
-//
-
 #import "SceneDelegate.h"
 
 @interface SceneDelegate ()
